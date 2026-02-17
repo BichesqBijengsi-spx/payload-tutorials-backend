@@ -29,7 +29,7 @@
     "react": "19.2.1",
     "react-dom": "19.2.1",
     "sharp": "0.34.2",
-    "@payloadcms/db-mongodb": "3.75.0"
+    "@payloadcms/db-sqlite": "3.75.0"
   },
   "devDependencies": {
     "@playwright/test": "1.56.1",
